@@ -6,7 +6,7 @@ ___
 - HTML
 - CSS
 
-# [Jouer](https://KakooES.github.io/TicTacToe-AutoPlay-JS/)
+# [Jouer](https://Kakoo28.github.io/TicTacToe-AutoPlay-JS/)
 
 ___
 
